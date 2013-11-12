@@ -30,6 +30,7 @@
         <genre spritesheet="genre" name="country">country</genre>
         <genre xml:lang="ast" spritesheet="genre" name="country">country</genre>
         <genre xml:lang="az" spritesheet="genre" name="country">ölkə</genre>
+        <genre xml:lang="bg" spritesheet="genre" name="country">кънтри</genre>
         <genre xml:lang="bs" spritesheet="genre" name="country">country</genre>
         <genre xml:lang="ca" spritesheet="genre" name="country">country</genre>
         <genre xml:lang="de" spritesheet="genre" name="country">Land</genre>
