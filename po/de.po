@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: coverartbrowser\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-18 15:41+0100\n"
-"PO-Revision-Date: 2013-08-17 20:46+0000\n"
-"Last-Translator: fossfreedom <Unknown>\n"
+"PO-Revision-Date: 2013-12-02 18:34+0000\n"
+"Last-Translator: Tobias Bannert <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-08-25 22:48+0000\n"
-"X-Generator: Launchpad (build 16738)\n"
+"X-Launchpad-Export-Date: 2013-12-03 13:16+0000\n"
+"X-Generator: Launchpad (build 16861)\n"
 
 #: tmpl/albumartsearch-tmpl.html:141 tmpl/albumartsearch-tmpl.html:187
 msgid "Search Options"
@@ -109,14 +109,14 @@ msgstr "Alle Jahrzehnte"
 #: tmp/coverart_topbar.ui.h:3 tmp/coverart_browser_prefs.ui.h:43
 #: tmp/coverart_sidebar.ui.h:4 coverart_browser.py:164
 msgid "Tiles"
-msgstr ""
+msgstr "Kacheln"
 
 #. . TRANSLATORS: This is the cover-flow view the user sees - they can swipe album covers from side-to-side
 #. . TRANSLATORS: Please try to keep the translation to less than 8 characters
 #: tmp/coverart_topbar.ui.h:4 tmp/coverart_browser_prefs.ui.h:53
 #: tmp/coverart_sidebar.ui.h:5 coverart_browser.py:168
 msgid "Flow"
-msgstr ""
+msgstr "Fluss"
 
 #: tmp/coverart_browser_pop_rb2.ui.h:1
 msgid "Play this album"
@@ -219,7 +219,7 @@ msgstr "Titel-Eigenschaften anzeigen"
 #: tmp/coverart_browser_pop_rb3.ui.h:10 tmp/coverart_entryview_pop_rb3.ui.h:5
 #: coverart_controllers.py:467
 msgid "Properties"
-msgstr ""
+msgstr "Eigenschaften"
 
 #: tmp/coverart_browser_prefs.ui.h:1
 msgid "Select a picture"
@@ -375,7 +375,7 @@ msgstr ""
 
 #: tmp/coverart_browser_prefs.ui.h:38
 msgid "Advanced Options"
-msgstr ""
+msgstr "Erweiterte Optionen"
 
 #: tmp/coverart_browser_prefs.ui.h:39
 msgid "Padding (space) around the cover and its highlight"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: tmp/coverart_browser_prefs.ui.h:45
 msgid "Width (px):"
-msgstr ""
+msgstr "Breite (px):"
 
 #. . TRANSLATORS: percentage size that the image will be expanded
 #: tmp/coverart_browser_prefs.ui.h:47 coverart_browser.py:171
@@ -417,15 +417,15 @@ msgstr ""
 
 #: tmp/coverart_browser_prefs.ui.h:50
 msgid "Background Colour"
-msgstr ""
+msgstr "Hintergrundfarbe"
 
 #: tmp/coverart_browser_prefs.ui.h:51
 msgid "White"
-msgstr ""
+msgstr "Weiß"
 
 #: tmp/coverart_browser_prefs.ui.h:52
 msgid "Black"
-msgstr ""
+msgstr "Schwarz"
 
 #: tmp/coverart_browser_prefs.ui.h:54
 msgid "Where the toolbar should be positioned"
@@ -449,7 +449,7 @@ msgstr ""
 
 #: tmp/coverart_browser_prefs.ui.h:59
 msgid "Icon Theme: "
-msgstr "Icon Theme: "
+msgstr "Symbol Thema: "
 
 #: tmp/coverart_browser_prefs.ui.h:60
 msgid "Alternative Genres:"
@@ -457,11 +457,11 @@ msgstr "Alternative Genres:"
 
 #: tmp/coverart_browser_prefs.ui.h:61
 msgid "Load New Icon: "
-msgstr "Neues Icon laden: "
+msgstr "Neues Symbol laden: "
 
 #: tmp/coverart_browser_prefs.ui.h:62
 msgid "Select a new genre icon"
-msgstr "Wählen Sie ein neues Genre-Icon"
+msgstr "Ein neues Kategoriesymbol wählen"
 
 #: tmp/coverart_browser_prefs.ui.h:63
 msgid "Edit Genre Details:"
@@ -473,15 +473,15 @@ msgstr "Änderungen speichern"
 
 #: tmp/coverart_browser_prefs.ui.h:65
 msgid "Name:"
-msgstr "Name :"
+msgstr "Name:"
 
 #: tmp/coverart_browser_prefs.ui.h:66
 msgid "Icon:"
-msgstr "Icon:"
+msgstr "Symbol:"
 
 #: tmp/coverart_browser_prefs.ui.h:67
 msgid "Current user-defined Genres:"
-msgstr "Nutzerdefinierte Genres verwenden"
+msgstr "Aktuelle benutzerdefinierten Kategorien:"
 
 #: tmp/coverart_browser_prefs.ui.h:68
 msgid "Alternate Name"
@@ -489,7 +489,7 @@ msgstr "Alternativer Name"
 
 #: tmp/coverart_browser_prefs.ui.h:69
 msgid "Icon"
-msgstr "Icon"
+msgstr "Symbol"
 
 #: tmp/coverart_browser_prefs.ui.h:70
 msgid "Add a new alternative genre"
@@ -686,7 +686,7 @@ msgstr "Cover"
 #. . TRANSLATORS - "All" is used in the context of "All artist names"
 #: coverart_browser_source.py:347
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: coverart_browser_source.py:621
 msgid "The number of albums to randomly play is less than that displayed."
@@ -707,7 +707,7 @@ msgstr ""
 #: coverart_browser_source.py:937
 #, python-format
 msgid "%d selected albums"
-msgstr ""
+msgstr "%d ausgewählte Alben"
 
 #: coverart_browser_source.py:941
 msgid " with 1 track"
@@ -861,6 +861,7 @@ msgstr ""
 "  Phillip Sz https://launchpad.net/~phillip-sz\n"
 "  Simon Schütte https://launchpad.net/~simonschuette\n"
 "  Spencer Young https://launchpad.net/~spenceryoung\n"
+"  Tobias Bannert https://launchpad.net/~toba\n"
 "  fossfreedom https://launchpad.net/~fossfreedom\n"
 "  quaec https://launchpad.net/~quaec"
 
